@@ -6,7 +6,7 @@
 #20*20*20*20
 #result=result*20=(20*20=400)0
 #result= result*20=(400*20=8000)1
-#result= result*20=(8000*20=16000)2
+#result= result*20=(8000*20=160000)2
 
 def main():
     num=int(input("enter a whole number"))#20
